@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Blogging app",
+    "imageSrc": "projects/blog.jpeg",
+    "description": "App where users can post, edit and delete a blog, and comment on other blogs",
+    "skills": ["React.js", "Express", "Node"],
+    "demo": "https://blogify-prod.netlify.app/",
+    "source": "https://github.com/UpanshuDhankher17/Blogging-App.git"
+  },
+  {
+    "title": "Movie recommendation ",
+    "imageSrc": "projects/movie.jpeg",
+    "description": "Build system using NMF optimized with different gradient descents",
+    "skills": ["Python", "LSTM", "NMF"],
+    "demo": "https://drive.google.com/file/d/1cd9KB5lW1eAJnplFhPj_mWjcKMF6blFi/view?usp=drive_link",
+    "source": "https://colab.research.google.com/drive/1mxJ6FA3qWuuOy97QAKbCv17efbcxqEUD?usp=drive_link"
+  },
+  {
+    "title": "Cyber Security",
+    "imageSrc": "projects/cyber.jpeg",
+    "description": "Performed denial of service attack using Kali Linux",
+    "skills": ["Kali ", "Golden eye", "Virtual box"],
+    "demo": "https://bit.ly/3rqoY1N",
+    "source": "https://github.com/UpanshuDhankher17/Cyber-Security.git"
+  }
+]

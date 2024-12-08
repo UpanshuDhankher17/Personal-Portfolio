@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Problem Solving",
+    "organisation": "",
+    "startDate": "-",
+    "endDate": "-",
+    "experiences": ["Solved over 600+ Q on leetcode", "Tried to optimize their solutions"],
+    "imageSrc": "history/leetcode.png"
+  },
+  {
+    "role": "Web developer",
+    "organisation": "",
+    "startDate": "-",
+    "endDate": "-",
+    "experiences": ["Created various full stack projects", "Tech- used CSS,Javascript,Mongodb,Expresss,React "],
+    "imageSrc": "history/webdev.jpeg"
+  },
+  {
+    "role": "ML",
+    "organisation": "",
+    "startDate": "-",
+    "endDate": "-",
+    "experiences": [
+      "Worked on Machine Learning projects ",
+      "Movie recommendation system"
+    ],
+    "imageSrc": "history/ml.jpeg"
+  }
+]
